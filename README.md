@@ -68,4 +68,21 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 <!-- Add Levels 6 through 35 as you progress -->
 
 <!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
