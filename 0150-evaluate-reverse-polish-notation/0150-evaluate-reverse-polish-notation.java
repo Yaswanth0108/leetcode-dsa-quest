@@ -1,34 +1,31 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<String> stack = new Stack<>();
+        Stack<Integer> stack = new Stack<>();
         for(String token : tokens){
-            stack.push(token);
-            String top = stack.peek();
-            if(top.equals("+")){
-                stack.pop();
-                int a = Integer.parseInt(stack.pop());
-                int b = Integer.parseInt(stack.pop());
-                stack.push(String.valueOf(b+a));
+            if(token.equals("+")){
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b+a);
             }
-            else if(top.equals("-")){
-                stack.pop();
-                int a = Integer.parseInt(stack.pop());
-                int b = Integer.parseInt(stack.pop());
-                stack.push(String.valueOf(b-a));
+            else if(token.equals("-")){
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b-a);
             }
-            else if(top.equals("*")){
-                stack.pop();
-                int a = Integer.parseInt(stack.pop());
-                int b = Integer.parseInt(stack.pop());
-                stack.push(String.valueOf(b*a));
+            else if(token.equals("*")){
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b*a);
             }
-            else if(top.equals("/")){
-                stack.pop();
-                int a = Integer.parseInt(stack.pop());
-                int b = Integer.parseInt(stack.pop());
-                stack.push(String.valueOf(b/a));
+            else if(token.equals("/")){
+               int a = stack.pop();
+                int b = stack.pop();
+                stack.push(b/a);
+            }
+            else{
+                stack.push(Integer.parseInt(token));
             }
         }
-        return Integer.parseInt(stack.pop());
+        return stack.pop();
     }
 }
