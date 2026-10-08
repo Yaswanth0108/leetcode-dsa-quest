@@ -8,7 +8,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 
 * **Target:** Master core Data Structures & Algorithm patterns
 * **Language:** Python 3
-* **Overall Status: 1/35 levels**
+* **Overall Status: 2/35 levels**
 
 ---
 
@@ -26,12 +26,11 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ---
 
 ### Level 2: Array II
-> **Status:** 🟡 In Progress
+> **Status:** 🟢 Completed
 
-- [ ] 🟢 0026 - Remove Duplicates from Sorted Array
-- [ ] 🟢 0027 - Remove Element
-- [ ] 🟢 0088 - Merge Sorted Array
-- [ ] 🟡 0189 - Rotate Array
+- [x] 🟢 [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch)
+- [x] 🟢 [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number)
+- [x] 🟢 [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0448-find-all-numbers-disappeared-in-an-array)
 
 ---
 
@@ -68,30 +67,5 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 <!-- Add Levels 6 through 35 as you progress -->
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch) |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-## Hash Table
-|  |
-| ------- |
-| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
-| [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch) |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch) |
-## Sorting
-|  |
-| ------- |
-| [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch) |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-## Counting Sort
-|  |
-| ------- |
-| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+
 <!---LeetCode Topics End-->
