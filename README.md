@@ -7,7 +7,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## 📊 Quest Progress Tracker
 
 * **Target:** Master core Data Structures & Algorithm patterns
-* **Language:** Python 3
+* **Language:** Java
 * **Overall Status: 2/35 levels**
 
 ---
