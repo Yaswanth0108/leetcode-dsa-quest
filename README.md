@@ -37,31 +37,31 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ### Level 3: Stack
 > **Status:** ⏳ Pending
 
-- [ ] 🟢 0020 - Valid Parentheses
-- [ ] 🟢 1047 - Remove All Adjacent Duplicates In String
-- [ ] 🟡 0155 - Min Stack
-- [ ] 🟡 0150 - Evaluate Reverse Polish Notation
+- [ ] 🟢 unknown
+- [ ] 🟢 unknown
+- [ ] 🟡 unknown
+- [ ] 🟡 unknown
 
 ---
 
 ### Level 4: Monotonic Stack
 > **Status:** ⏳ Pending
 
-- [ ] 🟢 0496 - Next Greater Element I
-- [ ] 🟡 0503 - Next Greater Element II
-- [ ] 🟡 0739 - Daily Temperatures
-- [ ] 🔴 0084 - Largest Rectangle in Histogram
+- [ ] 🟢 unknown
+- [ ] 🟢 unknown
+- [ ] 🟡 unknown
+- [ ] 🟡 unknown
 
 ---
 
 ### Level 5: Monotonic Stack II
 > **Status:** ⏳ Pending
 
-- [ ] 🟡 0901 - Online Stock Span
-- [ ] 🟡 0402 - Remove K Digits
-- [ ] 🟡 0456 - 132 Pattern
-- [ ] 🔴 0042 - Trapping Rain Water
-
+- [ ] 🟢 unknown
+- [ ] 🟢 unknown
+- [ ] 🟡 unknown
+- [ ] 🟡 unknown
+      
 ---
 
 <!-- Add Levels 6 through 35 as you progress -->
