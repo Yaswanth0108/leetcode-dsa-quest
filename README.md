@@ -17,7 +17,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Module 1: Linear Shoal
 
 ### Level 1: Array I
-> **Status:** 🟢 Completed
+> **Status:** 🟢 3/3 problems Completed
 
 - [x] 🟢 [0485 - Max Consecutive Ones](./0485-max-consecutive-ones/)
 - [x] 🟢 [1470 - Shuffle the Array](./1470-shuffle-the-array/)
@@ -26,7 +26,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ---
 
 ### Level 2: Array II
-> **Status:** 🟢 Completed
+> **Status:** 🟢 3/3 problems Completed
 
 - [x] 🟢 [0645-set-mismatch](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0645-set-mismatch)
 - [x] 🟢 [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number)
@@ -35,11 +35,10 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ---
 
 ### Level 3: Stack
-> **Status:** ⏳ Pending
+> **Status:** ⏳ 2/3 problems completed
 
-- [ ] 🟢 unknown
-- [ ] 🟢 unknown
-- [ ] 🟡 unknown
+- [ ] 🟢 [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations)
+- [ ] 🟢 [0150-evaluate-reverse-polish-notation](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0150-evaluate-reverse-polish-notation)
 - [ ] 🟡 unknown
 
 ---
@@ -64,26 +63,6 @@ A structured repository tracking my progress through the official [LeetCode DSA 
       
 ---
 
-<!-- Add Levels 6 through 35 as you progress -->
-
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0150-evaluate-reverse-polish-notation) |
-| [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations) |
-## Stack
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0150-evaluate-reverse-polish-notation) |
-| [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations) |
-## Simulation
-|  |
-| ------- |
-| [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations) |
-## Math
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0150-evaluate-reverse-polish-notation) |
+
 <!---LeetCode Topics End-->
