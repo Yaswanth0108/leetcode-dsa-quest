@@ -67,5 +67,17 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 <!-- Add Levels 6 through 35 as you progress -->
 
 <!---LeetCode Topics Start-->
-
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
