@@ -37,8 +37,8 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ### Level 3: Stack
 > **Status:** ⏳ 2/3 problems completed
 
-- [ ] 🟢 [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations)
-- [ ] 🟢 [0150-evaluate-reverse-polish-notation](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0150-evaluate-reverse-polish-notation)
+- [x] 🟢 [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations)
+- [x] 🟢 [0150-evaluate-reverse-polish-notation](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0150-evaluate-reverse-polish-notation)
 - [ ] 🟡 unknown
 
 ---
