@@ -8,7 +8,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 
 * **Target:** Master core Data Structures & Algorithm patterns
 * **Language:** Java
-* **Overall Status: 2/35 levels**
+* **Overall Status: 3/35 levels**
 
 ---
 
@@ -35,11 +35,11 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ---
 
 ### Level 3: Stack
-> **Status:** ⏳ 2/3 problems completed
+> **Status:** 🟢 3/3 problems completed
 
 - [x] 🟢 [1441-build-an-array-with-stack-operations](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1441-build-an-array-with-stack-operations)
 - [x] 🟢 [0150-evaluate-reverse-polish-notation](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0150-evaluate-reverse-polish-notation)
-- [ ] 🟡 unknown
+- [x] 🟢 [0636-exclusive-time-of-functions](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0636-exclusive-time-of-functions)
 
 ---
 
@@ -68,7 +68,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Array
 |  |
 | ------- |
-| [0636-exclusive-time-of-functions](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0636-exclusive-time-of-functions) |
+|  |
 ## Stack
 |  |
 | ------- |
