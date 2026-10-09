@@ -64,13 +64,4 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ---
 
 <!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-|  |
-## Stack
-|  |
-| ------- |
-| [0636-exclusive-time-of-functions](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0636-exclusive-time-of-functions) |
 <!---LeetCode Topics End-->
