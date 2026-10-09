@@ -6,10 +6,10 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
         int prevTime = 0;
         for(String log : logs){
-            String[] parts = log.split(":");
-            int id = Integer.parseInt(parts[0]);
-            String status = parts[1];
-            int time = Integer.parseInt(parts[2]);
+            String[] details = log.split(":");
+            int id = Integer.parseInt(details[0]);
+            String status = details[1];
+            int time = Integer.parseInt(details[2]);
             if(status.equals("start")){
                 if(!stack.isEmpty()){
                     res[stack.peek()] += time-prevTime;
