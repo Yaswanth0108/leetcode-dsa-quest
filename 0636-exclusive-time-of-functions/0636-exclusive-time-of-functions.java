@@ -2,7 +2,7 @@ class Solution {
     public int[] exclusiveTime(int n, List<String> logs) { 
         int[] res = new int[n]; 
         int execTime = 0; 
-        if(n == 1){ 
+        if(n==1){ 
             Details details = new Details(logs.get(logs.size()-1)); 
             res[0] = details.time+1; 
         } 
