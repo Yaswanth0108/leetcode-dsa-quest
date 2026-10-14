@@ -69,10 +69,15 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
