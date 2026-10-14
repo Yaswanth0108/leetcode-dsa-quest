@@ -72,6 +72,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0035-search-insert-position](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +83,12 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0066-plus-one) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
