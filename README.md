@@ -83,6 +83,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0066-plus-one) |
+| [1185-day-of-the-week](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1185-day-of-the-week) |
 ## Stack
 |  |
 | ------- |
