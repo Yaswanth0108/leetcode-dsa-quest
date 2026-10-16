@@ -73,6 +73,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0066-plus-one](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
@@ -97,4 +98,5 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
