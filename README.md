@@ -64,43 +64,5 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0033-search-in-rotated-sorted-array) |
-| [0035-search-insert-position](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0035-search-insert-position) |
-| [0066-plus-one](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0066-plus-one) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0643-maximum-average-subarray-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0643-maximum-average-subarray-i) |
-| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0033-search-in-rotated-sorted-array) |
-| [0035-search-insert-position](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0035-search-insert-position) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-## Math
-|  |
-| ------- |
-| [0066-plus-one](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0066-plus-one) |
-| [1185-day-of-the-week](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1185-day-of-the-week) |
-## Stack
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-## Monotonic Stack
-|  |
-| ------- |
-| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
-## Sliding Window
-|  |
-| ------- |
-| [0643-maximum-average-subarray-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0643-maximum-average-subarray-i) |
-| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
-## String
-|  |
-| ------- |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+
 <!---LeetCode Topics End-->
