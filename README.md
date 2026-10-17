@@ -44,10 +44,9 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ---
 
 ### Level 4: Monotonic Stack
-> **Status:** ⏳ Pending
+> **Status:** ⏳ 1/3 problems completed
 
-- [ ] 🟢 unknown
-- [ ] 🟢 unknown
+- [x] 🟢 [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1475-final-prices-with-a-special-discount-in-a-shop)
 - [ ] 🟡 unknown
 - [ ] 🟡 unknown
 
