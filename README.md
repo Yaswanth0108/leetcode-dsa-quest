@@ -80,4 +80,16 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Array
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
