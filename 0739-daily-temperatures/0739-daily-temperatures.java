@@ -3,7 +3,7 @@ class Solution {
         int n = a.length;
         int[] res = new int[n];
         Arrays.fill(res,0);
-        Deque<Integer> s = new ArrayDeque<>();
+        Stack<Integer> s = new Stack<>();
         for(int i=0;i<n;i++){
             while(!s.isEmpty()&&a[i]>a[s.peek()]){
                 int idx = s.pop();
