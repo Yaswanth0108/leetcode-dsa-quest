@@ -85,15 +85,18 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
