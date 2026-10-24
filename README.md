@@ -86,6 +86,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
@@ -106,6 +107,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
@@ -117,11 +119,17 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0075-sort-colors) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
