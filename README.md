@@ -73,6 +73,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## String
 |  |
 | ------- |
+| [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -107,6 +108,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | ------- |
 | [1051-height-checker](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | ------- |
 | [1051-height-checker](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
 ## Quicksort
 |  |
 | ------- |
