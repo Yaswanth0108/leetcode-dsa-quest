@@ -67,12 +67,14 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
 | [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -132,4 +134,8 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
