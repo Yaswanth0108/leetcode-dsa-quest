@@ -79,6 +79,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0012-integer-to-roman](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0020-valid-parentheses) |
 | [0819-most-common-word](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0819-most-common-word) |
 | [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -105,6 +106,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
@@ -151,4 +153,8 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
