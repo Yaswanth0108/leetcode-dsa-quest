@@ -106,6 +106,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0908-smallest-range-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0908-smallest-range-i) |
 | [1051-height-checker](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Stack
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0908-smallest-range-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0908-smallest-range-i) |
 | [1154-day-of-the-year](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Trie
 |  |
 | ------- |
