@@ -81,6 +81,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0014-longest-common-prefix](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0020-valid-parentheses) |
 | [0819-most-common-word](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0819-most-common-word) |
+| [1154-day-of-the-year](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1154-day-of-the-year) |
 | [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -159,6 +160,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0326-power-of-three](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0908-smallest-range-i) |
+| [1154-day-of-the-year](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1154-day-of-the-year) |
 ## Trie
 |  |
 | ------- |
