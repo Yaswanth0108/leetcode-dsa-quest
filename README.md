@@ -67,6 +67,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0819-most-common-word) |
@@ -75,6 +76,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0014-longest-common-prefix) |
 | [0819-most-common-word](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0819-most-common-word) |
@@ -143,6 +145,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
 ## Trie
 |  |
