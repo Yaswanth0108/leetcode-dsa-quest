@@ -99,6 +99,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0075-sort-colors](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0819-most-common-word) |
 | [1051-height-checker](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1051-height-checker) |
@@ -120,6 +121,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1859-sorting-the-sentence) |
@@ -154,6 +156,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0070-climbing-stairs](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0628-maximum-product-of-three-numbers) |
 ## Trie
 |  |
 | ------- |
