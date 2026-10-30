@@ -102,6 +102,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0628-maximum-product-of-three-numbers](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0739-daily-temperatures) |
 | [0819-most-common-word](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0819-most-common-word) |
+| [0908-smallest-range-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0908-smallest-range-i) |
 | [1051-height-checker](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/1122-relative-sort-array) |
 ## Stack
@@ -157,6 +158,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0263-ugly-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0628-maximum-product-of-three-numbers) |
+| [0908-smallest-range-i](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0908-smallest-range-i) |
 ## Trie
 |  |
 | ------- |
