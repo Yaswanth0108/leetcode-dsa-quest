@@ -152,6 +152,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0263-ugly-number) |
 ## Trie
 |  |
 | ------- |
