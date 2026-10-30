@@ -9,7 +9,7 @@ class Solution {
         long ans = 0;
         
         while (left <= right) {
-            long mid = left + (right - left) / 2;
+            long mid = left + (right - left) / 3;
             
             if (mid * mid == x) {
                 return (int) mid;
