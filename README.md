@@ -150,6 +150,7 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 | [0009-palindrome-number](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0069-sqrtx) |
 ## Trie
 |  |
 | ------- |
@@ -158,4 +159,12 @@ A structured repository tracking my progress through the official [LeetCode DSA 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Yaswanth0108/leetcode-dsa-quest/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
